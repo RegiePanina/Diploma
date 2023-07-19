@@ -10,8 +10,9 @@
 - Общее количество проведённых тестов - 36
 
 ### Результаты выполнения автотестов:
-![Снимок экрана 2023-07-19 в 12.06.36.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-19%20%D0%B2%2012.06.36.png)
-![report gradle](http://localhost:63342/Diploma/build/reports/tests/test/index.html)
+<img width="692" alt="Снимок экрана 2023-07-19 в 12 06 36" src="https://github.com/RegiePanina/Diploma/assets/121554223/91a84a9b-a865-4a27-926d-1eb61a51a025">
+<img width="946" alt="Снимок экрана 2023-07-19 в 12 06 15" src="https://github.com/RegiePanina/Diploma/assets/121554223/d70d0eb8-20f3-44a3-92d8-20d9a58602ed">
+<img width="1015" alt="Снимок экрана 2023-07-19 в 12 05 44" src="https://github.com/RegiePanina/Diploma/assets/121554223/7ed81037-d929-4da5-be22-3ff76bed22b6">
 
 Итого: 18 тестов - прошли успешно (61%), 7 тестов - провалены (39%).
 
